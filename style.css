@@ -26,6 +26,13 @@ body
 
 .loading-text{
     font-size: 100px;
-    color: white;
+    color: white; 
     
+}
+
+.load-text{
+    font-size: 100px;
+    color: white; 
+    top: 400px;
+    position: fixed;
 }
