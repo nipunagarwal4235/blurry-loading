@@ -36,3 +36,10 @@ body
     top: 400px;
     position: fixed;
 }
+
+@media (max-width: 480px) {
+    .load-text{
+        font-size: 50px;
+        top: 500px;
+    }
+}
